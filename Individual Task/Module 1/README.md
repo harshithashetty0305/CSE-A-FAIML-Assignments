@@ -10,6 +10,7 @@ The history of AI reflects cycles of optimism, challenges, and breakthroughs.
 Each decade introduced new concepts and practical achievements.
 Understanding this timeline helps us appreciate modern AI systems.
 The following sections present major milestones chronologically.
+! [AI Timeline](Ai.png)
 
 ## 2. Foundations of AI (1940s–1950s)
 
