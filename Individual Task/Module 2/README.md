@@ -1,1 +1,1 @@
-This folder contains module 2 individual task.
+This folder contains Module 2 individual task.
