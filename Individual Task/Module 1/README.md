@@ -197,10 +197,10 @@ Ethical discussions gained importance globally.
 
 ## 10. Impact, Challenges, and Future
 
-AI has transformed healthcare, finance, education, and transportation.
-Automation has increased efficiency and accuracy.
-Personalized services enhance user experiences.
-However, AI also presents ethical challenges.
+- AI has transformed healthcare, finance, education, and transportation.
+- Automation has increased efficiency and accuracy.
+- Personalized services enhance user experiences.
+- However, AI also presents ethical challenges.
 Bias and privacy concerns require careful management.
 Governments are developing regulatory frameworks.
 Transparency and accountability are emphasized.
