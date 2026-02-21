@@ -32,7 +32,9 @@ During this period, researchers created programs capable of solving algebra prob
 
 ### 3.2 ELIZA Chatbot (1966)
 
-ELIZA was one of the first natural language processing programs. It simulated conversation using pattern matching techniques. Although simple, it demonstrated the potential of human-computer interaction.
+In 1966, computer scientist Joseph Weizenbaum developed ELIZA, one of the earliest chatbot programs in AI history. ELIZA simulated conversation by using simple pattern-matching techniques and predefined response rules, often imitating a psychotherapist by rephrasing user inputs as questions.
+
+Although it did not truly understand language, many users felt that it was engaging in meaningful conversation. ELIZA demonstrated the potential of natural language processing and showed how humans can attribute intelligence to machines, making it an important early milestone in conversational AI.
 
 ### 3.3 Shakey the Robot (1969)
 
@@ -88,7 +90,9 @@ Robotic vacuum cleaners and self-operating machines demonstrated real-world appl
 
 ### 8.1 Breakthrough in Image Recognition (2012)
 
-Deep neural networks achieved dramatic improvements in image classification tasks. This success marked the beginning of the deep learning revolution.
+A major breakthrough in image recognition occurred in 2012 when a deep learning model called AlexNet dramatically outperformed other systems in the ImageNet Large Scale Visual Recognition Challenge. Developed by Geoffrey Hinton and his team, AlexNet used deep convolutional neural networks (CNNs) and GPU-based training to significantly reduce image classification error rates. 
+
+This achievement proved that deep learning techniques could automatically learn complex visual features from large datasets, leading to rapid advancements in computer vision applications such as facial recognition, medical imaging, autonomous vehicles, and object detection systems.
 
 ### 8.2 Advancements in Natural Language Processing
 
@@ -96,7 +100,9 @@ AI systems became better at understanding and generating human language. Transla
 
 ### 8.3 AlphaGo Victory (2016)
 
-AlphaGo defeated a world champion in the complex board game Go. This milestone highlighted the ability of AI to master strategic decision-making beyond traditional rule-based systems.
+In 2016, the AI system AlphaGo, developed by DeepMind, defeated world champion Lee Sedol in a historic five-game match of the board game Go. Go is considered far more complex than chess due to its vast number of possible moves, making it a significant challenge for artificial intelligence. 
+
+AlphaGo combined deep neural networks with reinforcement learning to evaluate board positions and improve through self-play. Its victory demonstrated the power of modern AI techniques and marked a major milestone in the advancement of machine learning and strategic decision-making systems.
 
 ## 9. Generative AI and Modern Innovations (2020s)
 
@@ -106,7 +112,9 @@ Large-scale AI models capable of generating human-like text were introduced. The
 
 ### 9.2 AI in Healthcare and Finance
 
-AI is now widely used for medical diagnosis, drug discovery, fraud detection, and risk assessment. These applications demonstrate the growing integration of AI into critical industries.
+Artificial Intelligence has significantly transformed both healthcare and finance by improving accuracy, efficiency, and decision-making. In healthcare, AI systems analyze medical images, detect diseases such as cancer at early stages, predict patient risks, and assist doctors in diagnosis and treatment planning. Machine learning models can process large volumes of patient data to identify patterns that may not be visible to humans.
+
+In finance, AI is widely used for fraud detection, credit scoring, algorithmic trading, and risk management. By analyzing massive transaction data in real time, AI systems can identify suspicious activities and market trends quickly. These applications demonstrate how AI is solving complex real-world problems and enhancing performance in critical sectors.
 
 ### 9.3 Ethical AI and Responsible Development
 
