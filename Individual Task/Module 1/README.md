@@ -24,6 +24,8 @@ The Dartmouth Conference, held in 1956 at Dartmouth College, is considered the o
 
 The participants proposed that human intelligence could be precisely described and simulated by machines. This event brought together leading scientists to discuss machine learning, reasoning, and problem-solving, laying the foundation for decades of AI research and development.
 
+![Theoretical Foundations](Ai1.png)
+
 ## 3. Early Growth and Optimism (1960s–1970s)
 
 ### 3.1 Development of Early Programs
