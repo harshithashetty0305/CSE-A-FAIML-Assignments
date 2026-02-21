@@ -122,6 +122,7 @@ In finance, AI is widely used for fraud detection, credit scoring, algorithmic t
 
 As AI systems became more powerful, concerns about bias, privacy, and accountability increased. Researchers and organizations began focusing on responsible AI development and governance.
 
+![Generative AI and modern innovations](Ai2.png)
 ## 10. Current Trends and Future Directions
 
 ### 10.1 Artificial General Intelligence (AGI)
