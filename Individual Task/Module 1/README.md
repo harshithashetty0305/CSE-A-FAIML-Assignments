@@ -127,15 +127,21 @@ As AI systems became more powerful, concerns about bias, privacy, and accountabi
 
 ### 10.1 Artificial General Intelligence (AGI)
 
-Researchers are exploring the possibility of Artificial General Intelligence, where machines could perform any intellectual task that humans can do.
+Artificial General Intelligence (AGI) refers to a theoretical form of AI that can understand, learn, and apply knowledge across a wide range of tasks at a level equal to or beyond human intelligence. Unlike narrow AI, which is designed for specific tasks such as image recognition or language translation, AGI would possess the ability to reason, adapt to new situations, solve unfamiliar problems, and transfer knowledge between different domains.
+
+Researchers consider AGI a long-term goal of artificial intelligence research, but it remains largely conceptual due to significant technical and ethical challenges. If achieved, AGI could revolutionize industries, science, and daily life, while also raising important questions about safety, control, and societal impact.
 
 ### 10.2 Explainable AI
 
-There is increasing emphasis on making AI systems transparent and understandable to users and regulators.
+Explainable AI (XAI) refers to artificial intelligence systems that are designed to make their decisions and processes understandable to humans. As many modern AI models, especially deep learning systems, operate like “black boxes,” it can be difficult to know how they arrive at specific outputs. 
+
+Explainable AI aims to provide clear explanations, transparency, and reasoning behind predictions or decisions, particularly in sensitive areas such as healthcare, finance, and law. By improving interpretability and trust, XAI helps users verify results, detect errors or bias, and ensure that AI systems are fair, accountable, and ethically responsible.
 
 ### 10.3 Human-AI Collaboration
 
-The future of AI is expected to focus on collaboration between humans and machines, enhancing productivity and creativity rather than replacing human intelligence.
+Human–AI collaboration refers to the partnership between humans and artificial intelligence systems where both work together to achieve better outcomes than either could alone. Instead of replacing humans, AI assists by analyzing large amounts of data, identifying patterns, and providing recommendations, while humans contribute creativity, critical thinking, ethical judgment, and contextual understanding. 
+
+This collaboration is widely used in fields such as healthcare, education, business, and engineering, where AI supports decision-making and improves efficiency. By combining machine intelligence with human expertise, human–AI collaboration enhances productivity, accuracy, and innovation while maintaining human control and responsibility.
 
 ## 11. Conclusion
 
