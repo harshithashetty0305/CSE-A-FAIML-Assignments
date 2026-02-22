@@ -5,7 +5,9 @@
 
 # 1. Introduction
 
-The Normal Distribution is one of the most widely used statistical distributions in business analytics. It helps in understanding how values are spread around an average. In this report, we analyze **Daily Sales in a Supermarket** using the Normal Distribution and explain the Empirical Rule (68–95–99.7 Rule).
+The Normal Distribution is one of the most widely used statistical distributions in business analytics. It helps in understanding how values are spread around an average.In the context of daily sales in a supermarket, understanding this distribution helps stakeholders predict sales patterns, manage inventory, and optimize operations.
+
+By modeling daily sales with a Normal Distribution, businesses can leverage statistical tools to forecast trends, assess risks, and make data-driven decisions.In this report, we analyze **Daily Sales in a Supermarket** using the Normal Distribution and explain the Empirical Rule (68–95–99.7 Rule).
 
 The graphical representation shows how daily sales are distributed around the average sales value.
 
@@ -30,7 +32,7 @@ When sales data is collected over many days and plotted on a graph, it tends to 
 
 ## 2.2 Assumed Parameters for Analysis
 
-For this report, we assume:
+For this domain, we assume:
 
 * Mean (μ) = ₹500,000 per day
 * Standard Deviation (σ) = ₹50,000
