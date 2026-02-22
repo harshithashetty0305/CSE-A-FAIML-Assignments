@@ -6,7 +6,6 @@ A privacy policy is a legally binding document that explains how an organization
 
 WhatsApp is a global messaging platform that enables users to exchange text messages, multimedia content, voice notes, and video calls. Because it processes large volumes of real-time communication data across multiple jurisdictions, privacy protection and responsible data governance are central to its operational model.
 
----
 
 ## 2. Categories of Data Collected
 
@@ -34,7 +33,6 @@ The platform collects technical data including device type, operating system, IP
 
 Although technical in nature, such data can contribute to user profiling if combined with other datasets. Therefore, anonymization and encryption are important governance safeguards.
 
----
 
 ## 3. Purpose of Data Processing
 
@@ -47,9 +45,10 @@ WhatsApp’s privacy policy outlines several purposes for data processing, inclu
 
 The principle of purpose limitation requires that data be used only for clearly defined objectives. Ethical considerations arise if data is repurposed without adequate user awareness or consent.
 
----
 
 ## 4. Data Sharing Practices
+<img width="1536" height="1024" alt="c13b777c-d0e8-439c-8b12-218eca7504b0-wm" src="https://github.com/user-attachments/assets/eb67f36e-b400-4608-a882-c31ecfc24434" />
+
 
 ### 4.1 Sharing with Affiliates
 
@@ -67,7 +66,6 @@ Effective governance requires vendor risk assessments, compliance audits, and de
 
 In compliance with applicable laws, WhatsApp may disclose certain information in response to valid legal requests, court orders, or regulatory investigations. While legal compliance is mandatory, ethical governance involves ensuring that disclosures are limited, documented, and justified.
 
----
 
 ## 5. Security Safeguards
 
@@ -87,7 +85,6 @@ Encryption protocols, secure servers, authentication mechanisms, and system upda
 
 These measures align with global cybersecurity standards and demonstrate structured data governance.
 
----
 
 ## 6. Data Retention Policies
 
@@ -95,7 +92,6 @@ The privacy policy specifies that data is retained only as long as necessary to 
 
 Retention governance includes automated deletion processes, periodic review of stored data, and regulatory compliance checks.
 
----
 
 ## 7. User Rights and Control Mechanisms
 
@@ -109,7 +105,6 @@ Users are provided with certain controls over their personal information, includ
 
 In some jurisdictions, users may request access to their stored data or request corrections. These mechanisms support the ethical principle of user autonomy and reinforce accountability.
 
----
 
 ## 8. Ethical Considerations Identified
 
@@ -133,7 +128,6 @@ Although message content is encrypted, metadata analysis may reveal communicatio
 
 As a global service, WhatsApp processes data across different jurisdictions. Ethical governance requires adherence to international data transfer standards and regulatory safeguards.
 
----
 
 ## 9. Data Governance Practices Observed
 
@@ -157,7 +151,6 @@ Third-party service providers operate under contractual data protection clauses,
 
 Continuous updates, threat detection systems, and infrastructure monitoring reflect proactive data risk management.
 
----
 
 ## 10. Conclusion
 
