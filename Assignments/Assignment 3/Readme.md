@@ -9,9 +9,6 @@ The Normal Distribution is one of the most widely used statistical distributions
 
 By modeling daily sales with a Normal Distribution, businesses can leverage statistical tools to forecast trends, assess risks, and make data-driven decisions.In this report, we analyze **Daily Sales in a Supermarket** using the Normal Distribution and explain the Empirical Rule (68–95–99.7 Rule).
 
-The graphical representation shows how daily sales are distributed around the average sales value.
-
-
 # 2. Domain Explanation: Daily Sales in Supermarket
 
 ## 2.1 Why Daily Sales?
@@ -64,7 +61,7 @@ In the context of daily supermarket sales, the mean represents the average daily
 
 # 4. Empirical Rule (68–95–99.7 Rule)
 
-The Empirical Rule explains how data is distributed within standard deviations from the mean.
+The Empirical Rule, also called the 68–95–99.7 Rule, is a statistical guideline that applies to normally distributed data. It tells us how data values are spread around the mean using standard deviations.
 
 <img width="584" height="455" alt="ea29866d-a70b-4aea-82af-4c131d656c89" src="https://github.com/user-attachments/assets/fc153cbf-fe51-417b-b9ca-df3670b00e1c" />
 
@@ -173,21 +170,34 @@ x – The value of the random variable for which the probability density is calc
 
 # 8. Advantages of Using Normal Distribution in Business
 
-* Helps predict expected sales
-* Identifies unusual sales patterns
-* Supports forecasting models
-* Improves strategic planning
+* Predicts expected outcomes – Helps estimate average sales, demand, or performance.
+  
+* Identifies anomalies – Detects unusually high or low values in sales or operations.
+  
+* Supports forecasting – Provides a foundation for statistical and predictive models.
 
+* Enhances decision-making – Improves planning, resource allocation, and strategy formulation.
 
-# 9. Conclusion
+# 9. Limitations of Using Normal Distribution in Business
 
-The Normal Distribution provides a powerful statistical tool for analyzing supermarket daily sales. Using the Empirical Rule, we can clearly understand how sales are distributed around the average value.
+* Assumes symmetry – Not suitable for skewed sales data or distributions with heavy tails.
+
+* Sensitive to outliers – Extreme values can distort the mean and standard deviation.
+
+* Requires sufficient data – Small datasets may not reliably follow a normal distribution.
+
+* May oversimplify reality – Real-world sales can be influenced by seasonality, promotions, or unexpected events that normal distribution does not capture.
+  
+# 10. Conclusion
+
+The Normal Distribution provides a powerful statistical tool for analyzing supermarket daily sales. Using the Empirical Rule, we can clearly understand how sales are distributed around the average value. 
 
 The graph demonstrates:
 
-✔ Symmetry around mean
-✔ Predictable spread using standard deviation
-✔ Majority of sales within expected range
+- Symmetry around mean
+
+- Predictable spread using standard deviation
+
+- Majority of sales within expected range
 
 This analysis helps businesses make data-driven decisions and improve operational efficiency.
-
