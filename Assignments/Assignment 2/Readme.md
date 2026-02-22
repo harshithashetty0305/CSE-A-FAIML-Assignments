@@ -133,6 +133,8 @@ Underfitting occurs when a model is too simple to capture the underlying pattern
 * Insufficient features
 * Not enough training
 
+![26d53f26-ea4a-486a-89fa-5dc6c307bba9](https://github.com/user-attachments/assets/05b74d3f-6f55-475c-8bcb-34b68342b2d9)
+
 ## 6.4 Example
 
 Using a straight line to model curved data leads to underfitting.
@@ -157,14 +159,41 @@ Overfitting occurs when a model learns the training data too well, including noi
 * Too many features
 * Small dataset
 * No regularization
+  
+![0b564d99-c622-47fe-b6ac-3fa97c5e4a90](https://github.com/user-attachments/assets/5f66fa00-6394-43f4-b3aa-54d0ce1f133b)
+
 
 ## 7.4 Example
 
 A very high-degree polynomial perfectly fitting all training points but failing on new data.
 
-# 8. Combinations of Bias and Variance
+# 8. Best Fit
 
-## 8.1 Low Bias and High Variance
+## 8.1 Definition
+
+A Best Fit is a line or curve that most closely represents the relationship between variables by minimizing the difference between observed and predicted values.
+
+## 8.2 Characteristics
+
+* Closely follows the trend of data points
+* Minimizes overall prediction error
+* Balances bias and variance
+* Provides reliable predictions for new data
+
+## 8.3 Causes
+
+* Appropriate model selection (linear, polynomial, exponential, etc.)
+* Sufficient and representative dataset
+* Proper handling of outliers
+* Feature selection and transformation
+* Use of optimization techniques (e.g., least squares, gradient descent)
+
+![9cdc1e33-f10a-4e6b-96a5-539bbbc5c523](https://github.com/user-attachments/assets/f4e81777-68f0-42d7-9c4b-b5db602c2c5b)
+
+
+# 9. Combinations of Bias and Variance
+
+## 9.1 Low Bias and High Variance
 
 * Model captures training data well
 * Overfits
@@ -173,7 +202,7 @@ A very high-degree polynomial perfectly fitting all training points but failing 
 
 Result: Overfitting
 
-## 8.2 Low Bias and Low Variance
+## 9.2 Low Bias and Low Variance
 
 * Model captures true pattern
 * Stable predictions
@@ -182,7 +211,7 @@ Result: Overfitting
 
 Result: Best Fit Model
 
-## 8.3 High Bias and High Variance
+## 9.3 High Bias and High Variance
 
 * Poor learning
 * Unstable predictions
@@ -191,7 +220,7 @@ Result: Best Fit Model
 
 Result: Very Poor Model
 
-## 8.4 High Bias and Low Variance
+## 9.4 High Bias and Low Variance
 
 * Too simple model
 * Stable but inaccurate
@@ -200,7 +229,7 @@ Result: Very Poor Model
 
 Result: Underfitting
 
-# 9. Which is best fit model
+# 10. Which is best fit model
 
 ### Answer:
 
@@ -218,7 +247,7 @@ Therefore, the best fit model must have:
 * Low Variance
 * Good Generalization
 
-# 10. Bias–Variance Tradeoff
+# 11. Bias–Variance Tradeoff
 
 There is a tradeoff between bias and variance.
 
@@ -232,7 +261,7 @@ Total Error = Bias² + Variance + Irreducible Error
 Goal: Minimize Bias² + Variance.
 
 
-# 11. Comparison Table
+# 12. Comparison Table
 
 | Model Type   | Training Error | Testing Error | Bias | Variance |
 | ------------ | -------------- | ------------- | ---- | -------- |
@@ -240,7 +269,7 @@ Goal: Minimize Bias² + Variance.
 | Overfitting  | Low            | High          | Low  | High     |
 | Best Fit     | Low            | Low           | Low  | Low      |
 
-# 12. Methods to Control Bias and Variance
+# 13. Methods to Control Bias and Variance
 
 ## To Reduce High Bias (Underfitting):
 
@@ -257,14 +286,14 @@ Goal: Minimize Bias² + Variance.
 - Perform feature selection
 - Apply early stopping
 
-# 13. Real world Application
+# 14. Real world Application
 
 - Recommendation Systems (Netflix, Amazon)
 - Stock Market Prediction
 - Self-Driving Cars
 - Medical Diagnosis Systems
 
-# 14. Conclusion
+# 15. Conclusion
 
 Machine Learning models learn patterns from data through training and are evaluated using testing data. If a model is too simple, it underfits due to high bias. If a model is too complex, it overfits due to high variance.
 
@@ -277,5 +306,3 @@ The ideal situation is a balanced model with:
 - Strong Generalization Ability
 
 Understanding bias and variance helps in selecting the correct model complexity and building efficient Machine Learning systems.
-
-
