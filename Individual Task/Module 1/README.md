@@ -4,7 +4,8 @@
 
 Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding. The development of AI has evolved through several important phases, including theoretical foundations, early experimentation, periods of decline, and modern breakthroughs driven by data and computing power. This report presents a detailed timeline of major milestones in AI history and explains how each stage contributed to the growth of the field.
 
-![Evolution of AI](Ai.png)
+<img width="1536" height="1024" alt="be99e76e-8792-4331-8f40-df33154676cb" src="https://github.com/user-attachments/assets/5eafe544-a154-4346-afb9-acfd35c74ab8" />
+
 
 ## 2. Theoretical Foundations (1940s–1950s)
 
@@ -24,7 +25,8 @@ The Dartmouth Conference, held in 1956 at Dartmouth College, is considered the o
 
 The participants proposed that human intelligence could be precisely described and simulated by machines. This event brought together leading scientists to discuss machine learning, reasoning, and problem-solving, laying the foundation for decades of AI research and development.
 
-![Theoretical Foundations](Ai1.png)
+<img width="1536" height="1024" alt="f3d17586-29bd-4845-9cf7-c1c76acaecab" src="https://github.com/user-attachments/assets/ec6f4519-7d16-4671-8f7a-32d755011460" />
+
 
 ## 3. Early Growth and Optimism (1960s–1970s)
 
@@ -122,7 +124,8 @@ In finance, AI is widely used for fraud detection, credit scoring, algorithmic t
 
 As AI systems became more powerful, concerns about bias, privacy, and accountability increased. Researchers and organizations began focusing on responsible AI development and governance.
 
-![Generative AI and modern innovations](Ai2.png)
+<img width="1536" height="1024" alt="a0d4a9ea-e41f-4ece-911d-e72f8ba4fa33" src="https://github.com/user-attachments/assets/999ecb84-d57f-45f7-a6af-f544637b6451" />
+
 ## 10. Current Trends and Future Directions
 
 ### 10.1 Artificial General Intelligence (AGI)
