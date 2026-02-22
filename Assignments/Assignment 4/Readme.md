@@ -64,70 +64,60 @@ The Empirical Rule states:
 Let us apply this to each class.
 
 
-# 5. Class-wise Analysis
+# 5. Comparison of Classes 4A, 4B, and 4C Using Mean and Standard Deviation
 
-## 5.1 Class 4A (σ = 4)
+<img width="592" height="455" alt="ec71c0b5-b70e-4243-a444-74327db6b76f" src="https://github.com/user-attachments/assets/a882757c-1261-44bc-b526-4ab82e00dbae" />
 
-### 68% Range (μ ± 1σ)
+## 1. Same Mean for All Classes
 
-55 ± 4 → 51 to 59
+All three classes have the same mean value (μ = 55), indicating that the average performance of students in classes 4A, 4B, and 4C is equal. Therefore, the mean alone cannot be used to determine which class is better.
 
-This means 68% of students scored between 51 and 59.
+## 2. Meaning of Standard Deviation
 
-### 95% Range (μ ± 2σ)
+Standard deviation measures the dispersion of data values around the mean. A smaller standard deviation indicates that the values are closely clustered around the mean, while a larger standard deviation indicates greater variation in the data.
 
-55 ± 8 → 47 to 63
+## 3. Performance Range of Class 4A (μ ± σ)
 
-### 99.7% Range (μ ± 3σ)
+For Class 4A:
 
-55 ± 12 → 43 to 67
+[
+μ ± σ = 55 ± 4 = 51 \text{ to } 59
+]
 
-### Interpretation
+This shows that most students in Class 4A score between 51 and 59. The range is narrow, indicating high consistency and uniform performance among students.
 
-Marks are closely clustered around 55. Very few students scored extremely low or extremely high. This indicates strong consistency and uniform performance.
+## 4. Performance Range of Class 4B (μ ± σ)
 
+For Class 4B:
 
-## 5.2 Class 4B (σ = 10)
+[
+μ ± σ = 55 ± 10 = 45 \text{ to } 65
+]
 
-### 68% Range (μ ± 1σ)
+This indicates that most students in Class 4B score between 45 and 65. The range is wider than Class 4A, showing moderate variation in performance.
 
-55 ± 10 → 45 to 65
+## 5. Performance Range of Class 4C (μ ± σ)
 
-### 95% Range (μ ± 2σ)
+For Class 4C:
 
-55 ± 20 → 35 to 75
+[
+μ ± σ = 55 ± 15 = 40 \text{ to } 70
+]
 
-### 99.7% Range (μ ± 3σ)
+This means that students in Class 4C score between 40 and 70. Although some students score high marks (up to 70), many students also score low marks, indicating high variation and inconsistent performance.
 
-55 ± 30 → 25 to 85
+## 6. Comparison Based on Consistency
 
-### Interpretation
+* Class 4A has the smallest range (51–59) and the least variation.
+* Class 4B has a moderate range (45–65).
+* Class 4C has the widest range (40–70), showing maximum variation.
 
-Marks are more spread out compared to Class 4A. Some students perform very well while some perform poorly. This indicates moderate variability in understanding.
-
-
-## 5.3 Class 4C (σ = 15)
-
-### 68% Range (μ ± 1σ)
-
-55 ± 15 → 40 to 70
-
-### 95% Range (μ ± 2σ)
-
-55 ± 30 → 25 to 85
-
-### 99.7% Range (μ ± 3σ)
-
-55 ± 45 → 10 to 100
-
-### Interpretation
-
-Marks are highly spread out. There are very high scorers and very low scorers. This indicates large inequality in performance levels.
+When the mean of all classes is the same, the class with the minimum standard deviation is considered the best. Hence, **Class 4A** is the best class because it shows maximum consistency and minimum variation around the mean value of 55.
 
 
 # 6. Graphical Interpretation
 
-If we draw three normal distribution curves:
+In the above graph of normal distribution curves:
 
 * Class 4A will have a tall and narrow bell curve.
 * Class 4B will have a moderately wide curve.
@@ -138,12 +128,6 @@ A wider curve indicates high variability.
 
 
 # 7. Comparative Evaluation
-
-## 7.1 Consistency
-
-* Most consistent: Class 4A
-* Moderate consistency: Class 4B
-* Least consistent: Class 4C
 
 ## 7.2 Risk of Low Performance
 
