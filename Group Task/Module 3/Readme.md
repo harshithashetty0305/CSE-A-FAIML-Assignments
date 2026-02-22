@@ -35,7 +35,7 @@ Supervised learning uses labeled data for training. Each training example includ
 Examples:
 
 * Logistic Regression
-* Naïve Bayes
+* Naive Bayes
 * Support Vector Machine (SVM)
 * Decision Trees
 * Random Forest
@@ -84,7 +84,7 @@ Supervised learning is highly suitable for spam detection because:
 
 Common supervised algorithms used in spam detection:
 
-* Naïve Bayes (very popular for text classification)
+* Naive Bayes (very popular for text classification)
 * Logistic Regression
 * Random Forest
 * Deep Learning models like LSTM or Transformer-based models
@@ -195,7 +195,7 @@ Supervised learning models such as Naïve Bayes and Logistic Regression have his
 
 ## 6. Recommended Algorithm: Naïve Bayes
 
-### 6.1 Why Naïve Bayes?
+### 6.1 Why Naive Bayes?
 
 Naïve Bayes is particularly suitable for spam detection because:
 
@@ -206,7 +206,7 @@ Naïve Bayes is particularly suitable for spam detection because:
 
 ### 6.2 Working Principle
 
-Naïve Bayes applies Bayes’ Theorem and assumes independence between features. It calculates the probability that a message belongs to a class (spam or ham) based on word frequencies.
+Naive Bayes applies Bayes’ Theorem and assumes independence between features. It calculates the probability that a message belongs to a class (spam or ham) based on word frequencies.
 
 The class with the highest probability is selected as the prediction.
 
@@ -253,7 +253,7 @@ Spam tactics evolve constantly, with attackers using new keywords, formats, and 
 
 Spam detection is a critical application of machine learning in modern communication systems. After analyzing supervised, unsupervised, semi-supervised, and reinforcement learning approaches, supervised learning emerges as the most appropriate and effective method.
 
-Specifically, algorithms like Naïve Bayes provide strong performance, computational efficiency, and practical reliability for text classification tasks. While other approaches may support anomaly detection or adaptive improvements, supervised learning remains the foundation of most real-world spam filtering systems.
+Specifically, algorithms like Naive Bayes provide strong performance, computational efficiency, and practical reliability for text classification tasks. While other approaches may support anomaly detection or adaptive improvements, supervised learning remains the foundation of most real-world spam filtering systems.
 
 Therefore, for the given real-world problem of spam detection, supervised machine learning is the most suitable choice due to its accuracy, efficiency, and proven success.
 
