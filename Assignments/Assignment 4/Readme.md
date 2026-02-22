@@ -42,8 +42,75 @@ Standard deviation measures how spread out the marks are from the mean.
 
 Although the average marks are the same, the variation in marks differs significantly.
 
+# 3. Theory of Normal distribution
 
-# 3. Understanding Standard Deviation in Academic 
+## 3.1 Definition
+
+The Normal Distribution, also known as the Gaussian Distribution, is a fundamental concept in statistics and probability theory. It describes a continuous probability distribution characterized by a symmetric, bell-shaped curve where most of the observations cluster around the mean, and probabilities taper off equally on both sides.
+
+## 3.2 Key Properties
+
+Symmetry – The curve is symmetric about the mean (μ).
+
+Mean, Median, Mode – All are equal and located at the center of the distribution.
+
+Standard Deviation (σ) – Measures the spread or dispersion of the data around the mean.
+
+Probability Density Function (PDF) – The mathematical expression of the normal distribution is:
+
+Total area under the curve equals 1.
+
+f(x) = 1 / (σ √(2π)) * e^(-(x - μ)^2 / (2σ^2))
+
+Where:
+
+𝑥 = variable
+
+𝜇 = mean
+
+𝜎 = standard deviation
+
+𝑒 = Euler’s number (~2.71828)
+
+68–95–99.7 Rule – Approximately 68% of data lies within 1σ, 95% within 2σ, and 99.7% within 3σ of the mean.
+
+## 3.3 Mean (μ)
+
+The **mean** is the average value of a dataset and represents the central point around which data values are distributed. It is calculated by:
+
+Mean (μ) = Σxᵢ / n
+
+Where:
+
+* xᵢ = each data point
+* n = total number of data points
+
+**Importance:**
+
+* Indicates the central tendency of data.
+* Serves as a reference for variance and standard deviation.
+* Helps predict expected outcomes, like average sales.
+
+## 3.4 Standard Deviation (σ)
+
+**Standard Deviation** measures the spread or dispersion of data values around the mean. It shows whether data points are close to the mean (low variability) or widely spread out (high variability).
+
+Standard Deviation (σ) = √(Σ(xᵢ - μ)² / n)
+
+Where:
+
+* xᵢ = each data point
+* μ = mean of the dataset
+* n = total number of data points
+
+**Importance:**
+
+* Quantifies variability or risk.
+* Supports the Empirical Rule for normal distributions.
+* Essential for forecasting, decision-making, and detecting outliers.
+
+
+# 4. Understanding Standard Deviation in Academic 
 
 Standard deviation indicates consistency.
 
@@ -53,7 +120,7 @@ Standard deviation indicates consistency.
 In an academic environment, consistency is often preferred because it indicates uniform understanding of concepts across students.
 
 
-# 4. Application of Empirical Rule (68–95–99.7 Rule)
+# 5. Application of Empirical Rule (68–95–99.7 Rule)
 
 The Empirical Rule states:
 
@@ -64,7 +131,7 @@ The Empirical Rule states:
 Let us apply this to each class.
 
 
-# 5. Comparison of Classes 4A, 4B, and 4C Using Mean and Standard Deviation
+# 6. Comparison of Classes 4A, 4B, and 4C Using Mean and Standard Deviation
 
 <img width="592" height="455" alt="ec71c0b5-b70e-4243-a444-74327db6b76f" src="https://github.com/user-attachments/assets/a882757c-1261-44bc-b526-4ab82e00dbae" />
 
@@ -72,41 +139,52 @@ Let us apply this to each class.
 
 All three classes have the same mean value (μ = 55), indicating that the average performance of students in classes 4A, 4B, and 4C is equal. Therefore, the mean alone cannot be used to determine which class is better.
 
-## 2. Meaning of Standard Deviation
+## 2. Standard Deviation (σ)
 
-Standard deviation measures the dispersion of data values around the mean. A smaller standard deviation indicates that the values are closely clustered around the mean, while a larger standard deviation indicates greater variation in the data.
+* Standard deviation quantifies the dispersion of data around the mean.
+* Formula: (σ) = √(Σ(xᵢ - μ)² / n)
+* Smaller σ indicates that data points are close to the mean, implying uniform performance.
+* Larger σ indicates wider spread, suggesting inconsistent performance among students.
 
-## 3. Performance Range of Class 4A (μ ± σ)
 
-For Class 4A:
+# 7. Performance Range of Classes
 
-[
-μ ± σ = 55 ± 4 = 51 \text{ to } 59
-]
+## 7.1 Class 4A (Blue)
 
-This shows that most students in Class 4A score between 51 and 59. The range is narrow, indicating high consistency and uniform performance among students.
+**Range:** μ ± σ = 55 ± 4 = 51 to 59
 
-## 4. Performance Range of Class 4B (μ ± σ)
+**Interpretation:**
 
-For Class 4B:
+* Most students scored between 51 and 59.
+* Narrow range → high consistency and uniform performance.
 
-[
-μ ± σ = 55 ± 10 = 45 \text{ to } 65
-]
+## 7.2 Class 4B (Orange)
 
-This indicates that most students in Class 4B score between 45 and 65. The range is wider than Class 4A, showing moderate variation in performance.
+**Range:** μ ± σ = 55 ± 10 = 45 to 65
 
-## 5. Performance Range of Class 4C (μ ± σ)
+**Interpretation:**
 
-For Class 4C:
+* Most students scored between 45 and 65.
+* Moderate range → moderate variation in performance.
 
-[
-μ ± σ = 55 ± 15 = 40 \text{ to } 70
-]
+## 7.3 Class 4C (Green)
 
-This means that students in Class 4C score between 40 and 70. Although some students score high marks (up to 70), many students also score low marks, indicating high variation and inconsistent performance.
+**Range:** μ ± σ = 55 ± 15 = 40 to 70
 
-## 6. Comparison Based on Consistency
+**Interpretation:**
+
+* Students scored between 40 and 70.
+* Wide range → high variation, inconsistent performance.
+
+# 8. Comparison Based on Consistency
+
+| Class | σ (Standard Deviation) | Range | Consistency |
+| ----- | ---------------------- | ----- | ----------- |
+| 4A    |           4            | 51–59 | High        |
+| 4B    |          10            | 45–65 | Moderate    |
+| 4C    |          15            | 40–70 | Low         |
+
+**Explanation:**
 
 * Class 4A has the smallest range (51–59) and the least variation.
 * Class 4B has a moderate range (45–65).
@@ -115,7 +193,7 @@ This means that students in Class 4C score between 40 and 70. Although some stud
 When the mean of all classes is the same, the class with the minimum standard deviation is considered the best. Hence, **Class 4A** is the best class because it shows maximum consistency and minimum variation around the mean value of 55.
 
 
-# 6. Graphical Interpretation
+# 9. Graphical Interpretation
 
 In the above graph of normal distribution curves:
 
@@ -127,26 +205,7 @@ A narrow curve indicates high consistency.
 A wider curve indicates high variability.
 
 
-# 7. Comparative Evaluation
-
-## 7.2 Risk of Low Performance
-
-Higher standard deviation increases the probability of very low scores.
-
-Class 4C has the highest risk of poor performance.
-
-## 7.3 Teaching Effectiveness Indicator
-
-Lower variation often suggests:
-
-* Effective teaching methods
-* Uniform understanding among students
-* Balanced academic environment
-
-Thus, Class 4A shows better academic stability.
-
-
-# 8. Which Class is Better?
+# 10. Which Class is Better?
 
 Although all classes have the same mean score (55), the better class is the one with lower variability.
 
@@ -162,7 +221,7 @@ Class 4B is average in terms of consistency.
 Class 4C shows high inequality in student performance and therefore is less stable.
 
 
-# 9. Conclusion
+# 11. Conclusion
 
 When comparing classes with the same mean but different standard deviations, the class with the smallest standard deviation is considered better in terms of consistency and stability.
 
